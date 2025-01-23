@@ -1,7 +1,7 @@
 # Kirby Snipcart
 
-## For Kirby 5 use release 0.6.0+
-## For Kurby 4 use release 0.50
+## For Kirby 5 use release 0.7.0+
+## For Kurby 4 use release 0.5.0
 
 
 This plugin helps integrate Snipcart into a Kirby site. We have big plans for this one, but right now it just helps add the default cart and provides blueprints & snippets to take the mandatory data that Snipcart needs in order to work.
