@@ -1,8 +1,12 @@
 # Kirby Snipcart
 
+## For Kirby 5 use release 0.6.0+
+## For Kurby 4 use release 0.50
+
+
 This plugin helps integrate Snipcart into a Kirby site. We have big plans for this one, but right now it just helps add the default cart and provides blueprints & snippets to take the mandatory data that Snipcart needs in order to work.
 
-This is designed to work with version 3 of Snipcart. It is worth noting that this version is built on Vue, and adding the cart to the template also adds Vue. Therefore, if you need other interactivity (lightboxes, image sliders etc) on the site, it's not a good idea to use jQuery. Go with Vue based plugins.
+It is worth noting that this version is built on Vue, and adding the cart to the template also adds Vue. Therefore, if you need other interactivity (lightboxes, image sliders etc) on the site, it's not a good idea to use jQuery. Go with Vue based plugins.
 
 Planned future features:
 

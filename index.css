@@ -1,1 +1,51 @@
-.card{background-color:#fff;width:100%;overflow:hidden}.card-header{background-color:#16171a;display:flex;align-items:flex-start;justify-content:space-between;color:#fff;padding:15px 8px 0;overflow:hidden;clear:both}.tab-heads{display:flex;padding:0;list-style:none;margin:-4px 0 0 6px}.tab-head{padding:5px 18px;position:relative;cursor:pointer}.tab-head--active{background-color:#fff;color:#333;transition:.4s}.card-body{padding:20px 16px}.k-snipcart-vital{background-color:#000;text-align:center;overflow:hidden;padding:12px 0 24px}.k-snipcart-vital h3{color:#fff;margin:0 12px 24px 0;font-weight:400}.k-snipcart-vital span{color:#fff;font-size:28px;display:block}
+.card {
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+}
+.card-header {
+  background-color: #16171a;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  color: #fff;
+  padding: 15px 8px 0;
+  overflow: hidden;
+  clear: both;
+}
+.tab-heads {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-left: 6px;
+  margin-top: -4px;
+}
+.tab-head {
+  padding: 5px 18px;
+  position: relative;
+  cursor: pointer;
+}
+.tab-head--active {
+  background-color: #fff;
+  color: #333;
+  transition: 0.4s;
+}
+.card-body {
+  padding: 20px 16px;
+}.k-snipcart-vital {
+  background-color: #000000;
+  text-align: center;
+  overflow: hidden;
+  padding: 12px 0 24px;
+}
+.k-snipcart-vital h3 {
+  color: #fff;
+  margin: 0 12px 24px 0;
+  font-weight: 400;
+}
+.k-snipcart-vital span {
+  color: #fff;
+  font-size: 28px;
+  display: block;
+}

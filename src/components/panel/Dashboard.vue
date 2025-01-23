@@ -1,6 +1,6 @@
 <template>
-  <k-inside>
-  <k-view class="k-snipcart-view">
+  <k-panel-inside>
+
     <TabCard :tabs="tabs" :initialTab="initialTab">
 
  
@@ -13,9 +13,8 @@
       <template slot="tab-head-discounts"> Discounts </template>
       <template slot="tab-panel-discounts">  <discounts></discounts>  </template>
       
-    </TabCard>
-  </k-view>
-</k-inside>
+    </TabCard>  </k-view>
+</k-panel-inside>
 </template>
     
     <script lang="js">

@@ -1,6 +1,6 @@
 {
-  "name": "kirby3-snipcart",
-  "version": "0.5.0",
+  "name": "kirby-snipcart",
+  "version": "0.6.0",
   "description": "A kirby CMS panel plugin for Snipcart",
   "author": "Hash&Salt",
   "license": "MIT",

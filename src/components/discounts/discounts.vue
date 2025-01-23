@@ -1,7 +1,5 @@
 <template>
   <div>
-
-
   <k-grid gutter="medium" class="k-snipcart-vitals">
     <k-column width="1/1">
       <discounts />
@@ -19,8 +17,5 @@ export default {
   components: {
     'discounts': Discounts
   },
-
-
-
 }
 </script>
