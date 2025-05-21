@@ -3,7 +3,6 @@
     "description": "Snipcart Panel Plugin",
     "type": "kirby-plugin",
     "license": "MIT",
-    "version": "0.7.5",
     "keywords": [
         "kirby4",
         "kirby5"
@@ -20,5 +19,10 @@
     ],
     "require": {
         "getkirby/composer-installer": "^1.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
     }
 }

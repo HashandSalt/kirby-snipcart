@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'hashandsalt/kirby3-snipcart',
-        'pretty_version' => '0.5.0',
-        'version' => '0.5.0.0',
-        'reference' => NULL,
+        'name' => 'hashandsalt/kirby-snipcart',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '3de7d8fcb8018adaab9c6a56062456894a64384f',
         'type' => 'kirby-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -19,10 +19,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'hashandsalt/kirby3-snipcart' => array(
-            'pretty_version' => '0.5.0',
-            'version' => '0.5.0.0',
-            'reference' => NULL,
+        'hashandsalt/kirby-snipcart' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '3de7d8fcb8018adaab9c6a56062456894a64384f',
             'type' => 'kirby-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
