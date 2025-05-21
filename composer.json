@@ -3,7 +3,11 @@
     "description": "Snipcart Panel Plugin",
     "type": "kirby-plugin",
     "license": "MIT",
-    "version": "0.7.0",
+    "version": "0.7.5",
+    "keywords": [
+        "kirby4",
+        "kirby5"
+    ],
     "support": {
         "issues": "https://github.com/HashandSalt/kirby-snipcart/issues",
         "source": "https://github.com/HashandSalt/kirby-snipcart"
